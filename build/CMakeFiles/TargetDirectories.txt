@@ -1,0 +1,3 @@
+/home/ntobiet/MAT AI/build/CMakeFiles/mat_ai.dir
+/home/ntobiet/MAT AI/build/CMakeFiles/edit_cache.dir
+/home/ntobiet/MAT AI/build/CMakeFiles/rebuild_cache.dir
